@@ -1416,7 +1416,7 @@ document.addEventListener('DOMContentLoaded', function() {
     },
     {
         elementId: 'ethereum',
-        logo: 'https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025',
+        logo: 'https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Ethereum-ETH-icon.png',
         title: 'Ethereum',
         subtitle: 'Dex Platform',
         price: '$2,800',
@@ -1911,7 +1911,7 @@ document.addEventListener('DOMContentLoaded', function() {
     },
             {
                 elementId: 'bored-ape',
-                logo: 'BAYC',
+                logo: 'https://ik.imagekit.io/bayc/assets/bayc-footer.png',
                 title: 'BAYC',
                 subtitle: 'Exclusive NFT',
                 price: '100 ETH',
@@ -1962,9 +1962,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     { icon: 'fab fa-instagram', url: '#' }
                 ],
                 nftImages: [
-                    '/api/placeholder/400/320',
-                    '/api/placeholder/400/320',
-                    '/api/placeholder/400/320'
+                    'https://nftevening.com/wp-content/uploads/2021/08/Sabet-BAYC-NFT.jpeg',
+                    'https://nftevening.com/wp-content/uploads/2022/05/Screenshot-2022-05-20-at-20.11.39.png',
+                    'https://ik.imagekit.io/bayc/assets/bayc-footer.png'
                 ],
                 type: 'nft'
             },
@@ -2020,7 +2020,7 @@ document.addEventListener('DOMContentLoaded', function() {
 },
             {
                 elementId: 'vitalik-buterin',
-                logo: '/api/placeholder/400/320',
+                logo: 'https://vz.cnwimg.com/wp-content/uploads/2021/05/Vitalik-Buterin-1.jpg',
                 title: 'Vitalik Buterin',
                 subtitle: 'Ethereum Co-Founder',
                 birth: 'Jan 31, 1994',
@@ -2076,7 +2076,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     { icon: 'fab fa-instagram', url: 'https://www.instagram.com/vitalik_buterin' }
                 ],
                 personImages: [
-                    '/api/placeholder/400/320',
+                    'https://vz.cnwimg.com/wp-content/uploads/2021/05/Vitalik-Buterin-1.jpg',
                     '/api/placeholder/400/320',
                     '/api/placeholder/400/320'
                 ],
