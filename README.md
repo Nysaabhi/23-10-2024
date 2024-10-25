@@ -38,24 +38,22 @@ body {
     padding: 10px;
 }
 
-        .header {
-            padding: 20px;
-            background: rgba(0, 0, 0, 0.8);
-            backdrop-filter: blur(20px);
-            position: fixed;
-            width: 100%;
-            top: 0;
-            z-index: 1000;
-            border-bottom: 1px solid rgba(255, 215, 0, 0.1);
-        }
+.header {
+    padding: 20px;
+    margin-bottom: 20px;
+}
 
-        .header-content {
-            max-width: 600px;
-            margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
+.heading {
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: -25px;
+    background: linear-gradient(45deg, #DA70D6, #FFC0CB);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: gradientShift 10s ease infinite;
+}
 
 .subheading {
     text-align: center;
